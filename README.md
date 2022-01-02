@@ -3,7 +3,7 @@ Module 18 Unsupervised Machine Learning
 
 ##  Overview
 
-The porpose of this analysysi was to determine which cryptocurrencies are worth trading.The data presented was then cleaned, reducedand then presented using k-means before being visualised.
+The porpose of this analysys was to determine which cryptocurrencies are worth trading.The data presented was then cleaned, reducedand then presented using k-means before being visualised.
 
 ## Resources
 
